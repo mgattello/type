@@ -22,6 +22,22 @@ var a = 'Hi';
 
 ~~~~
 
+### Typescript Compiler
+
+Typescript uses its own compiler to convert Javascript files. Below how to use it:
+
+Compile the file:
+
+~~~~
+tsc filename.ts
+~~~~
+
+Activate whatch mode while your coding in real time:
+
+~~~~
+tsc filename.ts --watch
+~~~~
+
 
 
 
